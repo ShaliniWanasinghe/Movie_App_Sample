@@ -1,3 +1,4 @@
+<div align="center">
 # Movie_App_Sample 🎬
 
 This is a modern Movie Application inspired by streaming platforms like Netflix, built using **React Native**, **Expo SDK 54**, and **Expo Router**.
@@ -6,6 +7,7 @@ This is a modern Movie Application inspired by streaming platforms like Netflix,
 **Email**: [2021ict75@stu.vau.ac.lk](mailto:2021ict75@stu.vau.ac.lk)
 
 ---
+</div>
 
 ## ✨ Features
 
@@ -49,7 +51,20 @@ Scan the QR code with the **Expo Go** mobile app on your phone.
 ```bash
 npm run android
 ```
+---
+<div align="center">
+<img width="1842" height="893" alt="Screenshot 2026-11-07 222010" src="https://github.com/user-attachments/assets/21b37042-14cf-4435-b509-dbc1e5d23e88" />
+<br>
 
+<img width="1842" height="908" alt="Screenshot 2026-11-07 221907" src="https://github.com/user-attachments/assets/4595adfc-ca2b-4f67-9c0c-cf472040e545" />
+
+<img width="1850" height="902" alt="Screenshot 2026-11-07 221923" src="https://github.com/user-attachments/assets/17c3337b-9ad7-4cc4-9bef-ef9c3e275c35" />
+
+<img width="1857" height="837" alt="Screenshot 2026-11-07 221940" src="https://github.com/user-attachments/assets/87785f37-be9a-4834-a0e3-e95b08211745" />
+
+
+</div>
+---
 ---
 
 ## 🛠️ Tech Stack
