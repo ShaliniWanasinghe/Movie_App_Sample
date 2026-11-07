@@ -1,4 +1,5 @@
 <div align="center">
+  
 # Movie_App_Sample 🎬
 
 This is a modern Movie Application inspired by streaming platforms like Netflix, built using **React Native**, **Expo SDK 54**, and **Expo Router**.
